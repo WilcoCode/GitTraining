@@ -83,3 +83,9 @@ Haal wijzigingen op van GitHub zonder te mergen
 
 ### git blame <bestand>
 Bekijk per regel wie en wanneer die als laatste heeft aangepast
+
+### gh pr create
+Maak een PR aan
+
+### gh pr merge
+Merge de PR 
